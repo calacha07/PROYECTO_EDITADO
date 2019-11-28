@@ -1,0 +1,30 @@
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csprojAssemblyReference.cache
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csproj.GenerateResource.cache
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmEjercicio6.resources
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Cuarta_Pregunta.resources
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Segunda_Pregunta.resources
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Tercera_Pregunta.resources
+C:\Users\Anyeli Cendales M\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Quinta_Pregunta.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csprojAssemblyReference.cache
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csproj.GenerateResource.cache
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\PROYECTO-20190418T232201Z-001\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb

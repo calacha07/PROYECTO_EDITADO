@@ -1,0 +1,576 @@
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.Form1.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCompuesta.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalSimple.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.Form1.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCompuesta.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalSimple.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\Jenny y angie\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmLoginReg.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCompuesta.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalSimple.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmLoginReg.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.dll
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.xml
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CopyComplete
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmNivelCuatro.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmPueba.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalCompuesta.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalSimple.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.ResolveComReference.cache
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmRegistro.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form0.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form2.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form3.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form4.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form5.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form6.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmPrincipal.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa1.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa2.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa3.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa4.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa51.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa52.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt5.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt51.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt6.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt61.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt7.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt71.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt72.resources
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\crist\source\Adsi_1693441\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.ResolveComReference.cache
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmRegistro.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form0.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form2.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form3.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form4.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form5.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form6.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmPrincipal.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa1.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa3.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa51.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt5.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt6.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt7.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt71.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmLoginReg.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalCompuesta.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalSimple.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmNivelCuatro.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmPueba.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\Google.Protobuf.dll
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.xml
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CopyComplete
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel5.Nivel5Introduccion.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel1.Frminstruccion.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel3.FrmIntroduccion.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel6.FrmIntroduccionNivel6.resources
+C:\Users\pc 5\Downloads\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.IntroduccionLvl2.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.dll
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.xml
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.ResolveComReference.cache
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmRegistro.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form0.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form2.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form3.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form4.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form5.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form6.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmPrincipal.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa1.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa3.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa51.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt5.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt6.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt7.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt71.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmLoginReg.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel1.Frminstruccion.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.IntroduccionLvl2.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalCompuesta.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalSimple.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel3.FrmIntroduccion.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmPueba.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel5.Nivel5Introduccion.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel6.FrmIntroduccionNivel6.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CopyComplete
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\crist\Documents\Sena\Ultimo prototipo SALBA\04-05-2019\Prototipo SALBA\Prototipo SALBA\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmCuatroNivel.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.ResolveComReference.cache
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\bin\Debug\Google.Protobuf.dll
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.xml
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojResolveAssemblyReference.cache
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmRegistro.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form0.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form2.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form3.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form4.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form5.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form6.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmPrincipal.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa1.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa3.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FormRa51.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt5.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt6.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt7.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmRt71.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmLoginReg.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel1.Frminstruccion.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.IntroduccionLvl2.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalCompuesta.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalSimple.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel3.FrmIntroduccion.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmCuatroNivel.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmPueba.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel5.Nivel5Introduccion.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel6.FrmIntroduccionNivel6.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\sticky\Documents\Visual Studio 2013\Projects\PROYECTO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.Cache
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.ResolveComReference.cache
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmRegistro.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmLoginReg.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel1.Frminstruccion.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.IntroduccionLvl2.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalCompuesta.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalSimple.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel3.FrmIntroduccion.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmPueba.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel5.Nivel5Introduccion.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel6.FrmIntroduccionNivel6.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.dll
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.xml
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CopyComplete
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.FrmIntroducionNivel4.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.Practica1.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.Practica2.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form0.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmPrincipal.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema11.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Matematicas.FrmTema1.2.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema1.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema21.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Matematicas.FrmTema2.2.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema2.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema31.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema3.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema41.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema4.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema51.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema5.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema61.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema6.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema71.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema72.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema7.resources
+C:\Users\crist\Downloads\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.FrmCuatroPrincipal.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.ResolveComReference.cache
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\Google.Protobuf.dll
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\MySql.Data.xml
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmAvanzado.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmDificil.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmFacil.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.CompetenciaFrmMedio.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Competencia.frmCompetencias.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmRegistro.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmLoginReg.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.Form0.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmPrincipal.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema11.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Matematicas.FrmTema1.2.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema1.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema21.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Matematicas.FrmTema2.2.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema2.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema31.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema3.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema41.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema4.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema51.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema5.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema61.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema6.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema71.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema72.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Matematicas.Repaso.FrmTema7.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Menu.FrmMenuPrincipal.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel1.Frminstruccion.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmBooleano.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmCadena.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEntero.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmEvaluacion.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.frmReal.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmVariables.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.IntroduccionLvl2.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2condicionalCaso.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalCompuesta.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.frmNivel2condicionalSimple.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.Nivel2Evaluacion.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\EJERCICIOS.FrmNivel2Principal.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.FrmNivel3Principal.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.Evaluacion.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel3.FrmIntroduccion.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCiclosPara.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloMientras.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\FrmNivelTres.JuegoCicloRepita.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.FrmCuatroPrincipal.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Proyecto.FrmPueba.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.FrmIntroducionNivel4.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.Practica1.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel4.Practica2.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel5.Nivel5Introduccion.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5Prueba.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaCuatro.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaDos.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\LoginProyecto.FrmNivel5PruebaTres.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Nivel6.FrmIntroduccionNivel6.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCuatro.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaUno.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmConceptoMatrices.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaCinco.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaDos.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FrmNivel6PreguntaTres.resources
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PROYECTO_EDITADO\PROYECTO_EDITADO\PROYECTO\PROYECTO\obj\Debug\Prototipo Uno SALBA.csproj.CopyComplete

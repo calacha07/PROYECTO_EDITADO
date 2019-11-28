@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D9106B4B-6400-4852-A8FC-8D157BD8E4FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PROYECTO</RootNamespace>
+    <AssemblyName>PROYECTO</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.14.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include=".Designer.cs" />
+    <Compile Include="AuxiliarNivel.cs" />
+    <Compile Include="Competencia\Axuliar.cs" />
+    <Compile Include="Competencia\CompetenciaFrmAvanzado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmAvanzado.Designer.cs">
+      <DependentUpon>CompetenciaFrmAvanzado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmDificil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmDificil.Designer.cs">
+      <DependentUpon>CompetenciaFrmDificil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmFacil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmFacil.Designer.cs">
+      <DependentUpon>CompetenciaFrmFacil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmMedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmMedio.Designer.cs">
+      <DependentUpon>CompetenciaFrmMedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Competencia\CompetenciaFrmPrincipal.Designer.cs">
+      <DependentUpon>CompetenciaFrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Dato.cs" />
+    <Compile Include="FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistro.Designer.cs">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\Form0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\Form0.Designer.cs">
+      <DependentUpon>Form0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema1.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema1.1.Designer.cs">
+      <DependentUpon>FrmTema1.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema1.Designer.cs">
+      <DependentUpon>FrmTema1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema2.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema2.1.Designer.cs">
+      <DependentUpon>FrmTema2.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema2.Designer.cs">
+      <DependentUpon>FrmTema2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema3.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema3.1.Designer.cs">
+      <DependentUpon>FrmTema3.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema3.Designer.cs">
+      <DependentUpon>FrmTema3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema4.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema4.1.Designer.cs">
+      <DependentUpon>FrmTema4.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema4.Designer.cs">
+      <DependentUpon>FrmTema4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema5.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema5.1.Designer.cs">
+      <DependentUpon>FrmTema5.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema5.Designer.cs">
+      <DependentUpon>FrmTema5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema6.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema6.1.Designer.cs">
+      <DependentUpon>FrmTema6.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema6.Designer.cs">
+      <DependentUpon>FrmTema6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema7.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema7.1.Designer.cs">
+      <DependentUpon>FrmTema7.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema7.2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema7.2.Designer.cs">
+      <DependentUpon>FrmTema7.2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matematicas\FrmTema7.Designer.cs">
+      <DependentUpon>FrmTema7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matematicas\Mate.cs" />
+    <Compile Include="Menu\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel1\Instruccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1\Instruccion.designer.cs">
+      <DependentUpon>Instruccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Booleano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Booleano.Designer.cs">
+      <DependentUpon>Nivel1Booleano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Cadena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Cadena.Designer.cs">
+      <DependentUpon>Nivel1Cadena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Entero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Entero.Designer.cs">
+      <DependentUpon>Nivel1Entero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Evaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Evaluacion.Designer.cs">
+      <DependentUpon>Nivel1Evaluacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Real.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Real.Designer.cs">
+      <DependentUpon>Nivel1Real.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Variables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1\Nivel1Variables.Designer.cs">
+      <DependentUpon>Nivel1Variables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel2\IntroduccionLvl2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel2\IntroduccionLvl2.designer.cs">
+      <DependentUpon>IntroduccionLvl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2condicionalCaso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2condicionalCaso.Designer.cs">
+      <DependentUpon>Nivel2condicionalCaso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2condicionalCompuesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2condicionalCompuesta.Designer.cs">
+      <DependentUpon>Nivel2condicionalCompuesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2condicionalSimple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2condicionalSimple.Designer.cs">
+      <DependentUpon>Nivel2condicionalSimple.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2Evaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2Evaluacion.Designer.cs">
+      <DependentUpon>Nivel2Evaluacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel2\Nivel2Form1.Designer.cs">
+      <DependentUpon>Nivel2Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3\FrmConceptos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3\FrmConceptos.Designer.cs">
+      <DependentUpon>FrmConceptos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3\FrmEvaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3\FrmEvaluacion.Designer.cs">
+      <DependentUpon>FrmEvaluacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3\FrmIntroduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3\FrmIntroduccion.designer.cs">
+      <DependentUpon>FrmIntroduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3\FrmJuego1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3\FrmJuego1.Designer.cs">
+      <DependentUpon>FrmJuego1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3\FrmJuego2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3\FrmJuego2.Designer.cs">
+      <DependentUpon>FrmJuego2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3\FrmJuego3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3\FrmJuego3.Designer.cs">
+      <DependentUpon>FrmJuego3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel4\FrmCuatroPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel4\FrmCuatroPrincipal.Designer.cs">
+      <DependentUpon>FrmCuatroPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel4\FrmPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel4\FrmPrueba.designer.cs">
+      <DependentUpon>FrmPrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel4\Introduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel4\Introduccion.designer.cs">
+      <DependentUpon>Introduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel4\Practica1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel4\Practica1.designer.cs">
+      <DependentUpon>Practica1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel4\Practica2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel4\Practica2.designer.cs">
+      <DependentUpon>Practica2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5.Designer.cs">
+      <DependentUpon>Nivel5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5Introduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5Introduccion.Designer.cs">
+      <DependentUpon>Nivel5Introduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5Prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5Prueba.Designer.cs">
+      <DependentUpon>Nivel5Prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5PruebaCuatro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5PruebaCuatro.Designer.cs">
+      <DependentUpon>Nivel5PruebaCuatro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5PruebaDos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5PruebaDos.Designer.cs">
+      <DependentUpon>Nivel5PruebaDos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5PruebaTres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel5\Nivel5PruebaTres.Designer.cs">
+      <DependentUpon>Nivel5PruebaTres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel6\FrmIntroduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel6\FrmIntroduccion.Designer.cs">
+      <DependentUpon>FrmIntroduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaCuatro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaCuatro.Designer.cs">
+      <DependentUpon>Nivel6PreguntaCuatro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaUno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaUno.Designer.cs">
+      <DependentUpon>Nivel6PreguntaUno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel6\FrmConceptoMatrices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel6\FrmConceptoMatrices.Designer.cs">
+      <DependentUpon>FrmConceptoMatrices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Nivel6\Nivel6PreguntaCinco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaCinco.Designer.cs">
+      <DependentUpon>Nivel6PreguntaCinco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaDos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaDos.Designer.cs">
+      <DependentUpon>Nivel6PreguntaDos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaTres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel6\Nivel6PreguntaTres.Designer.cs">
+      <DependentUpon>Nivel6PreguntaTres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs" />
+    <EmbeddedResource Include="Competencia\CompetenciaFrmAvanzado.resx">
+      <DependentUpon>CompetenciaFrmAvanzado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Competencia\CompetenciaFrmDificil.resx">
+      <DependentUpon>CompetenciaFrmDificil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Competencia\CompetenciaFrmFacil.resx">
+      <DependentUpon>CompetenciaFrmFacil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Competencia\CompetenciaFrmMedio.resx">
+      <DependentUpon>CompetenciaFrmMedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Competencia\CompetenciaFrmPrincipal.resx">
+      <DependentUpon>CompetenciaFrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistro.resx">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\Form0.resx">
+      <DependentUpon>Form0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema1.1.resx">
+      <DependentUpon>FrmTema1.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema1.2.resx" />
+    <EmbeddedResource Include="Matematicas\FrmTema1.resx">
+      <DependentUpon>FrmTema1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema2.1.resx">
+      <DependentUpon>FrmTema2.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema2.2.resx" />
+    <EmbeddedResource Include="Matematicas\FrmTema2.resx">
+      <DependentUpon>FrmTema2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema3.1.resx">
+      <DependentUpon>FrmTema3.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema3.resx">
+      <DependentUpon>FrmTema3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema4.1.resx">
+      <DependentUpon>FrmTema4.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema4.resx">
+      <DependentUpon>FrmTema4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema5.1.resx">
+      <DependentUpon>FrmTema5.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema5.resx">
+      <DependentUpon>FrmTema5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema6.1.resx">
+      <DependentUpon>FrmTema6.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema6.resx">
+      <DependentUpon>FrmTema6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema7.1.resx">
+      <DependentUpon>FrmTema7.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema7.2.resx">
+      <DependentUpon>FrmTema7.2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matematicas\FrmTema7.resx">
+      <DependentUpon>FrmTema7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1\Instruccion.resx">
+      <DependentUpon>Instruccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1\Nivel1Booleano.resx">
+      <DependentUpon>Nivel1Booleano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1\Nivel1Cadena.resx">
+      <DependentUpon>Nivel1Cadena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1\Nivel1Entero.resx">
+      <DependentUpon>Nivel1Entero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1\Nivel1Evaluacion.resx">
+      <DependentUpon>Nivel1Evaluacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1\Nivel1Real.resx">
+      <DependentUpon>Nivel1Real.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1\Nivel1Variables.resx">
+      <DependentUpon>Nivel1Variables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2\IntroduccionLvl2.resx">
+      <DependentUpon>IntroduccionLvl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2\Nivel2condicionalCaso.resx">
+      <DependentUpon>Nivel2condicionalCaso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2\Nivel2condicionalCompuesta.resx">
+      <DependentUpon>Nivel2condicionalCompuesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2\Nivel2condicionalSimple.resx">
+      <DependentUpon>Nivel2condicionalSimple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2\Nivel2Evaluacion.resx">
+      <DependentUpon>Nivel2Evaluacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2\Nivel2Form1.resx">
+      <DependentUpon>Nivel2Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3\FrmConceptos.resx">
+      <DependentUpon>FrmConceptos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3\FrmEvaluacion.resx">
+      <DependentUpon>FrmEvaluacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3\FrmIntroduccion.resx">
+      <DependentUpon>FrmIntroduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3\FrmJuego1.resx">
+      <DependentUpon>FrmJuego1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3\FrmJuego2.resx">
+      <DependentUpon>FrmJuego2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3\FrmJuego3.resx">
+      <DependentUpon>FrmJuego3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel4\FrmCuatroPrincipal.resx">
+      <DependentUpon>FrmCuatroPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel4\FrmPrueba.resx">
+      <DependentUpon>FrmPrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel4\Introduccion.resx">
+      <DependentUpon>Introduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel4\Practica1.resx">
+      <DependentUpon>Practica1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel4\Practica2.resx">
+      <DependentUpon>Practica2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel5\Nivel5.resx">
+      <DependentUpon>Nivel5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel5\Nivel5Introduccion.resx">
+      <DependentUpon>Nivel5Introduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel5\Nivel5Prueba.resx">
+      <DependentUpon>Nivel5Prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel5\Nivel5PruebaCuatro.resx">
+      <DependentUpon>Nivel5PruebaCuatro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel5\Nivel5PruebaDos.resx">
+      <DependentUpon>Nivel5PruebaDos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel5\Nivel5PruebaTres.resx">
+      <DependentUpon>Nivel5PruebaTres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel6\FrmIntroduccion.resx">
+      <DependentUpon>FrmIntroduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel6\Nivel6PreguntaCuatro.resx">
+      <DependentUpon>Nivel6PreguntaCuatro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel6\Nivel6PreguntaUno.resx">
+      <DependentUpon>Nivel6PreguntaUno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel6\FrmConceptoMatrices.resx">
+      <DependentUpon>FrmConceptoMatrices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Nivel6\Nivel6PreguntaCinco.resx">
+      <DependentUpon>Nivel6PreguntaCinco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel6\Nivel6PreguntaDos.resx">
+      <DependentUpon>Nivel6PreguntaDos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel6\Nivel6PreguntaTres.resx">
+      <DependentUpon>Nivel6PreguntaTres.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Matrices final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240px-Sena_Colombia_logo.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240px-Sena_Colombia_logo.svg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preguta 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuarta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuarta respuesta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura10.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura15.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura8.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto031.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto035.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\240px-Sena_Colombia_logo.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Competencia\envelop.png" />
+    <Content Include="Competencia\Resource\envelop1.png" />
+    <Content Include="Competencia\Resource\key.png" />
+    <Content Include="Competencia\Resource\key1.png" />
+    <Content Include="Competencia\Resource\key2.png" />
+    <Content Include="Competencia\Resource\users.png" />
+    <Content Include="Competencia\Resource\users2.png" />
+    <None Include="Resources\users2.png" />
+    <None Include="Resources\users.png" />
+    <None Include="Resources\key2.png" />
+    <None Include="Resources\key1.png" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\envelop1.png" />
+    <None Include="Resources\envelop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
